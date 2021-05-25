@@ -1,4 +1,4 @@
-# cs202_cpu_project-
+# cs202_project_cpu
 computer_organization_final_project 
 
 **you should assembly asm file!!**
